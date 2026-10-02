@@ -1,0 +1,13 @@
+{
+  "tx": 541910,
+  "orders": 19960,
+  "customers": 4372,
+  "aov": 534.4039,
+  "returns_rev_share": 0.092,
+  "cancelled_invoice_share": 0.0171,
+  "sku_count": 3908,
+  "top20_sku_revenue_share": 0.1373,
+  "uk_share_revenue": 0.84,
+  "multi_country_orders_share": 0.1539,
+  "active_months": 13
+}

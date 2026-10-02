@@ -1,0 +1,14 @@
+{
+  "assumptions": {
+    "dual_source_extra_landed_cost": 0.06,
+    "export_growth_factor": 0.25,
+    "export_share_target": 0.3
+  },
+  "annual_revenue": 9747766.0,
+  "top20_revenue": 1382977.0,
+  "scenario_a_dual_sourcing_cost": 82979.0,
+  "uk_revenue": 9025222.0,
+  "uk_revenue_share": 0.926,
+  "non_uk_revenue": 1641480.0,
+  "scenario_b_export_revenue_gain": 123111.0
+}
